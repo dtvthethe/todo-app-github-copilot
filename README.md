@@ -1,1 +1,2 @@
-# todo-app-github-copilot
+Todo app
+html, css, js
